@@ -57,6 +57,7 @@ li {
 }
 
 footer {
+  display: block;
   font-family: sans-serif;
   font-size: small;
 }
