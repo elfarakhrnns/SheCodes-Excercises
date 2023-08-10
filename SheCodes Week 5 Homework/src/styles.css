@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 15px;
+  font-size: 35px;
+}
+
+ul {
+  list-style-type: disc;
+  margin: 0 10px;
+  display: block;
+}
+
+li {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  height: 17px;
+  line-height: 1;
+  list-style: none;
+}
+
+.container {
+  max-width: 720px;
+}
+
+.card {
+  margin-top: 25px;
+  border-radius: 15px;
+}
+
+.search {
+  margin: 15px;
+}
+
+.weather-icon {
+  margin: 15px;
+  width: 80px;
+}
+
+.float-left {
+  float: left !important;
+}
+
+.temperature {
+  font-size: 50px;
+  font-weight: 200;
+}
+.units {
+  display: initial;
+}
