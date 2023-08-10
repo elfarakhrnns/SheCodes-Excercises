@@ -51,3 +51,12 @@ li {
 .units {
   display: initial;
 }
+
+.source {
+  color: blue;
+}
+
+footer {
+  font-family: sans-serif;
+  font-size: small;
+}
